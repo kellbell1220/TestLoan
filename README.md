@@ -29,6 +29,3 @@ properly. I made a global text area so it communicate with both the GUI controls
 display the results properly. I made a for loop within the function to cycle through all of the different 
 interest rates and used the += to add to the text area without deleting the previous results.
 
-## Notes
-
-figuring out the global text area and the += to keep all of my results is what took me the longest time. 
